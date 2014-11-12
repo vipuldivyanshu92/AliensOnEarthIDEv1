@@ -11,4 +11,4 @@ Instructions of adding plugins:
 
 1. add the plugIns class caller function in the main class
 2. add its title in utils export array
-3. call the new export function in the createExportmenu functions switch statement
+3. call the new export function in the createExportMenu function of the Main class inside the switch case statements by adding a new case statement.
