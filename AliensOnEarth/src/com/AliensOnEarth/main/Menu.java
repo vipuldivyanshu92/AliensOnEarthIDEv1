@@ -8,6 +8,8 @@ public class Menu {
 	static Scanner scanner;
 	static Boolean fContinue;
 	static ArrayList<String> values;
+	
+	// constructor
 	Menu(Scanner scanner,Boolean fContinue){
 		
 		Menu.scanner = scanner;
